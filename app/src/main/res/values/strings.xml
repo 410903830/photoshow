@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">photoshow</string>
+    <string name="a_desc">123</string>
+    <string name="b_desc">456</string>
+    <string name="c_desc">789</string>
+    <string name="d_desc">101112</string>
+    <string name="e_desc">131415</string>
+</resources>
